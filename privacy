@@ -1,0 +1,1242 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:515 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:等线;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:DengXian;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:"等线 Light";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:å®‹ä½“;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:宋体;
+	mso-font-charset:134;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:微软雅黑;
+	panose-1:2 11 5 3 2 2 4 2 2 4;
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 718224464 22 0 262175 0;}
+@font-face
+	{font-family:ç­‰çº¿;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:宋体;
+	mso-font-charset:134;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:ç­‰çº¿Light;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:宋体;
+	mso-font-charset:134;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@微软雅黑";
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 718224464 22 0 262175 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:515 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"\@等线";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:"\@等线 Light";
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:"\@å®‹ä½“";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@ç­‰çº¿";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@ç­‰çº¿Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:等线;
+	mso-ascii-font-family:等线;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:等线;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:等线;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"标题 1 字符";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+h2
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"标题 2 字符";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-priority:99;
+	mso-style-link:"页眉 字符";
+	margin:0cm;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:等线;
+	mso-ascii-font-family:等线;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:等线;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:等线;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-priority:99;
+	mso-style-link:"页脚 字符";
+	margin:0cm;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:等线;
+	mso-ascii-font-family:等线;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:等线;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:等线;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+span.a
+	{mso-style-name:"页眉 字符";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:页眉;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;}
+span.a0
+	{mso-style-name:"页脚 字符";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:页脚;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;}
+span.1
+	{mso-style-name:"标题 1 字符";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"标题 1";
+	mso-ansi-font-size:24.0pt;
+	mso-bidi-font-size:24.0pt;
+	font-family:宋体;
+	mso-ascii-font-family:宋体;
+	mso-fareast-font-family:宋体;
+	mso-hansi-font-family:宋体;
+	mso-bidi-font-family:宋体;
+	mso-font-kerning:18.0pt;
+	font-weight:bold;}
+span.2
+	{mso-style-name:"标题 2 字符";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"标题 2";
+	mso-ansi-font-size:18.0pt;
+	mso-bidi-font-size:18.0pt;
+	font-family:宋体;
+	mso-ascii-font-family:宋体;
+	mso-fareast-font-family:宋体;
+	mso-hansi-font-family:宋体;
+	mso-bidi-font-family:宋体;
+	mso-font-kerning:0pt;
+	font-weight:bold;}
+span.spelle
+	{mso-style-name:spelle;
+	mso-style-unhide:no;}
+span.grame
+	{mso-style-name:grame;
+	mso-style-unhide:no;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:等线;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;
+	mso-footnote-separator:url("隐私政策英语.files/header.htm") fs;
+	mso-footnote-continuation-separator:url("隐私政策英语.files/header.htm") fcs;
+	mso-endnote-separator:url("隐私政策英语.files/header.htm") es;
+	mso-endnote-continuation-separator:url("隐私政策英语.files/header.htm") ecs;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:等线;
+	mso-ascii-font-family:等线;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:等线;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:等线;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="2"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ZH-CN style='tab-interval:21.0pt;word-wrap:break-word;text-justify-trim:
+punctuation'>
+
+<div class=WordSection1 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:left;mso-pagination:widow-orphan;mso-outline-level:1'><b><span
+lang=EN-US style='font-size:24.0pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:18.0pt'>Privacy Policy<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Dark Flame <span class=SpellE>Tecnology</span>&nbsp;Privacy
+Policy</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:
+"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;
+mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Effective date: Nov 17th, 2021</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>At&nbsp;Dark Flame <span class=SpellE>Tecnology</span>,
+we take your privacy seriously. Please read this Privacy Policy to learn how we
+treat your personal information. By using or accessing the Services in any
+manner, you acknowledge that you accept the practices and policies outlined
+below, and you hereby consent that we will collect, use, and share your
+information as described in this Privacy Policy.</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Remember that your use of&nbsp;Dark Flame <span
+class=SpellE>Tecnology's</span>&nbsp;Services is at all times subject to our
+Terms of Use, which incorporates this Privacy Policy. Any terms we use in this
+Policy without defining them have the definitions given to them in the Terms of
+Use.</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:13.0pt;margin-right:0cm;margin-bottom:
+13.0pt;margin-left:0cm;line-height:27.7pt;mso-pagination:widow-orphan;
+mso-outline-level:2'><b><span lang=EN-US style='font-size:14.0pt;font-family:
+"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>Sources
+of Personal Data</span></b><b><span lang=EN-US style='font-size:16.0pt;
+font-family:"ç­‰çº¿Light",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We collect Personal Data about you from
+the following categories of sources:</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>1.</span><span style='font-size:14.0pt;
+font-family:"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'>“<span lang=EN-US>You</span>”</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:14.0pt;mso-pagination:widow-orphan'><span
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>•<span lang=EN-US>&nbsp;When you provide
+such information directly to us.</span></span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:14.0pt;mso-pagination:widow-orphan'><span
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>•<span lang=EN-US>&nbsp;When Personal Data
+about you is automatically collected in connection with your use of our
+Services (see the subsection titled&nbsp;</span>“<span lang=EN-US>Information
+Collected Automatically</span>”<span lang=EN-US>&nbsp;below).</span></span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>2.</span><span style='font-size:14.0pt;
+font-family:"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'>“<span lang=EN-US>Affiliates</span>”</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:14.0pt;mso-pagination:widow-orphan'><span
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>•<span lang=EN-US>&nbsp;Our subsidiaries
+and affiliates when they provide us with Personal Data about you.</span></span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>3.</span><span style='font-size:14.0pt;
+font-family:"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'>“<span lang=EN-US>Third Parties</span>”</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:14.0pt;mso-pagination:widow-orphan'><span
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>•<span lang=EN-US>&nbsp;Third parties that
+provide us with Personal Data about you. Third Parties that share your Personal
+Data with us include:</span></span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:14.0pt;mso-pagination:widow-orphan'><span
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US>a</span>）<span
+lang=EN-US>Service providers. For example, we may use analytics service
+providers to analyze how you interact and engage with the Services, or third
+parties may help us provide you with customer support.</span></span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:50.9pt;text-indent:-42.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US>b</span>）<span
+lang=EN-US>Social networks connected to the services. If you provide your
+social network account credentials to us or otherwise sign in to the Services
+through a third-party site or service, you understand some content and/or
+information in those accounts may be transmitted into your Account with us.</span></span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:52.5pt;text-indent:-42.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US>c</span>）<span
+lang=EN-US>Advertising partners. We receive information about you from some of
+our service providers who assist us with marketing or promotional services
+related to how you interact with our&nbsp;<span class=GramE>websites,&nbsp;&nbsp;applications</span>,
+products, services, advertisements or communications.</span></span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:13.0pt;margin-right:0cm;margin-bottom:
+13.0pt;margin-left:0cm;line-height:27.7pt;mso-pagination:widow-orphan;
+mso-outline-level:2'><b><span lang=EN-US style='font-size:14.0pt;font-family:
+"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>Information
+Collected Automatically</span></b><b><span lang=EN-US style='font-size:16.0pt;
+font-family:"ç­‰çº¿Light",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>The Services use ad identifiers, which are
+non-permanent, non-personal identifiers such as the Android advertising ID
+and/or Apple's ID for advertising (the&nbsp;</span><span style='font-size:14.0pt;
+font-family:"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'>‘<span lang=EN-US>IDFA</span>’<span lang=EN-US>) uniquely associated with
+your device. Similar technologies include tracking pixels within ads. These
+technologies allow us and our advertising partners (including marketers and
+advertisers) to recognize your device when you use the Services. Our
+advertising partners (<span class=GramE>e.g.</span>&nbsp;Facebook and Google)
+may also transmit cookies and similar technologies such as pixel tags, web
+beacons, clear GIFs, and JavaScript (collectively,&nbsp;</span>“<span
+lang=EN-US>Cookies</span>”<span lang=EN-US>) to your device, when you click on
+ads that appear on the Services. IDFAs and Cookies enable our servers to
+recognize your device and tell us how and when you access and use our Services,
+to analyze trends, learn about our user base and operate and improve our
+Services. Cookies are small pieces of data</span>–<span lang=EN-US>&nbsp;usually
+text files&nbsp;</span>–<span lang=EN-US>&nbsp;placed on your computer, tablet,
+phone, or similar device when you use that device to visit our Services. We may
+also supplement the information we collect from you with information received
+from third parties, including third parties that have placed their own Cookies
+on your device(s). Please note that this Privacy Policy does not cover the use
+of Cookies by any third parties, and we&nbsp;<span class=SpellE>aren</span></span><span
+class=GramE>’</span><span lang=EN-US>t responsible for their privacy policies
+and practices.&nbsp; Please be aware that Cookies placed by third parties may
+continue to track your activities online even after you have left our Services,
+and those third parties may not honor&nbsp;</span>“<span lang=EN-US>Do Not
+Track</span>”<span lang=EN-US>&nbsp;requests you have set using your browser or
+device.</span></span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:13.0pt;margin-right:0cm;margin-bottom:
+13.0pt;margin-left:0cm;line-height:27.7pt;mso-pagination:widow-orphan;
+mso-outline-level:2'><b><span lang=EN-US style='font-size:14.0pt;font-family:
+"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>Information
+about Interest-Based Advertisements:</span></b><b><span lang=EN-US
+style='font-size:16.0pt;font-family:"ç­‰çº¿Light",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We may serve advertisements, and also
+allow third-party ad networks, including third-party ad servers, ad agencies,
+ad technology vendors and research firms, to serve advertisements through the
+Services. These advertisements may be targeted to users who fit certain general
+profile categories or display certain preferences or behaviors (</span><span
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>“<span lang=EN-US>Interest-Based Ads</span>”<span
+lang=EN-US>). Information for Internet-Based Ads (including Personal Data) may
+be provided to us by you, or derived from the usage patterns of particular
+users on the Services and/or services of third parties. Such information may be
+gathered through tracking users</span><span class=GramE>’</span><span
+lang=EN-US>&nbsp;activities across time and unaffiliated properties, including
+when you leave the Services. To accomplish this, we or our service providers
+may deliver Cookies, including a file (known as a&nbsp;</span>“<span
+lang=EN-US>web beacon</span>”<span lang=EN-US>) from an ad network to you
+through the Services. Web beacons allow ad networks to provide anonymized,
+aggregated auditing, research and reporting for us and for advertisers. Web
+beacons also enable ad networks to serve targeted advertisements to you when
+you visit other websites. Web beacons allow ad networks to view, edit or set
+their own Cookies on your browser, just as if you had requested a web page from
+their site.</span></span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We comply with the Digital Advertising
+Alliance (</span><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>“<span lang=EN-US>DAA</span>”<span
+lang=EN-US>) Self-Regulatory Principles for Online Behavioral Advertising.
+Through the DAA and Network Advertising Initiative (</span>“<span lang=EN-US>NAI</span>”<span
+lang=EN-US>), several media and marketing associations have developed an
+industry self-regulatory program to give consumers a better understanding of,
+and greater control over, ads that are customized based a consumer</span><span
+class=GramE>’</span><span lang=EN-US>s online behavior across different
+websites and properties. To make choices about Interest-Based Ads from
+participating third parties, including to opt-out of receiving behaviorally
+targeted advertisements from participating organizations, please visit the DAA</span><span
+class=GramE>’</span><span lang=EN-US>s or NAI</span><span class=GramE>’</span><span
+lang=EN-US>s consumer opt-out pages, which are located at
+http://www.networkadvertising.org/choices/ or www.aboutads.info/choices.</span></span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:13.0pt;margin-right:0cm;margin-bottom:
+13.0pt;margin-left:0cm;line-height:27.7pt;mso-pagination:widow-orphan;
+mso-outline-level:2'><b><span lang=EN-US style='font-size:14.0pt;font-family:
+"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>How
+We Use Your Personal Data</span></b><b><span lang=EN-US style='font-size:16.0pt;
+font-family:"ç­‰çº¿Light",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We process Personal Data to operate,
+improve, understand and personalize our Services. We use Personal Data for the
+following purposes:</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To meet or fulfill the reason you provided
+the information to us.</span><span lang=EN-US style='font-size:13.5pt;
+font-family:"å®‹ä½“",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To communicate with you about the
+Services, including Service announcements, updates or offers.</span><span
+lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To provide support and assistance for the
+Services.</span><span lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To create and manage your Account or other
+user profiles.</span><span lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To personalize website content and
+communications based on your preferences, including targeted offers and ads
+served through the Services.</span><span lang=EN-US style='font-size:13.5pt;
+font-family:"å®‹ä½“",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To process orders or other transactions.</span><span
+lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To respond to user inquiries and fulfill
+user requests.</span><span lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To improve and develop the Services,
+including testing, research, analysis and product development.</span><span
+lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To protect against or deter fraudulent,
+illegal or harmful actions and maintain the safety, security and integrity of
+our Services.</span><span lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To comply with our legal or contractual
+obligations, resolve disputes, and enforce our Terms of Use.</span><span
+lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To respond to law enforcement requests and
+as required by applicable law, court order, or governmental regulations.</span><span
+lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>For any other business purpose stated when
+collecting your Personal Data or as otherwise set forth in applicable data
+privacy laws, such as the California Consumer Privacy Act (the&nbsp;</span><span
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>“<span lang=EN-US>CCPA</span>”<span
+lang=EN-US>).</span></span><span lang=EN-US style='font-size:13.5pt;font-family:
+"å®‹ä½“",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;
+mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We will not collect additional categories
+of Personal Data or use the Personal Data we collected for materially
+different, unrelated, or incompatible purposes without providing you notice.</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:13.0pt;margin-right:0cm;margin-bottom:
+13.0pt;margin-left:0cm;line-height:27.7pt;mso-pagination:widow-orphan;
+mso-outline-level:2'><b><span lang=EN-US style='font-size:14.0pt;font-family:
+"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>How
+We Share Your Personal Data</span></b><b><span lang=EN-US style='font-size:
+16.0pt;font-family:"ç­‰çº¿Light",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We disclose your Personal Data to the
+following categories of service providers and other parties:</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span style='font-size:
+14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;
+mso-font-kerning:0pt'>“<span lang=EN-US>Service providers</span>”<span
+lang=EN-US>, which help us provide our Services, including:</span></span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>1. Payment processors, such as Apple (for
+in-app purchases made in our iOS apps) and Google (for in-app purchases made in
+our Android apps).</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>2. Ad networks, such&nbsp;<span
+class=SpellE>as:Facebook</span></span><span style='font-size:14.0pt;font-family:
+"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>、<span
+lang=EN-US>Google&nbsp;<span class=SpellE>Admob</span></span>、<span lang=EN-US>Unity</span>、<span
+class=SpellE><span lang=EN-US>Ironsource</span></span>、<span class=SpellE><span
+lang=EN-US>Applovin</span></span>、<span class=SpellE><span lang=EN-US>Vungle</span></span>、<span
+class=SpellE><span lang=EN-US>Adcolony</span></span></span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>3. Security and fraud prevention
+consultants.</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>4. Hosting and other technology and
+communications providers.</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>5. Analytics providers, such as&nbsp;<span
+class=SpellE>Appsflyer</span>.</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>6.</span><span style='font-size:14.0pt;
+font-family:"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'>“<span lang=EN-US>Affiliates</span>”<span lang=EN-US>.</span></span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>7.</span><span style='font-size:14.0pt;
+font-family:"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'>“<span lang=EN-US>Acquirors</span>”<span lang=EN-US>, who acquire your
+Personal Data through an acquisition or other change of&nbsp;<span
+class=SpellE>control.Personal</span>&nbsp;Data may be transferred to a third
+party if we undergo a merger, acquisition, bankruptcy or other transaction in
+which that third party assumes control of our business (in whole or in part).</span></span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>8.</span><span style='font-size:14.0pt;
+font-family:"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'>“<span lang=EN-US>Selected Recipients</span>”<span lang=EN-US>, which are
+third parties that we share your Personal Data with at your direction,
+including:</span></span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Other users (where you interact with other
+users through the Services or direct us to&nbsp;<span class=GramE>effect</span>&nbsp;any
+interaction or communication with other users as initiated or authorized by you
+through the Services).</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>9. Social media services (if you
+intentionally interact with them through your use of the Services).</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>10. Third-party business partners who you
+access through the Services.</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>11. Other parties authorized by you.</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:13.0pt;margin-right:0cm;margin-bottom:
+13.0pt;margin-left:0cm;line-height:27.7pt;mso-pagination:widow-orphan;
+mso-outline-level:2'><b><span lang=EN-US style='font-size:14.0pt;font-family:
+"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>Disclosures
+of Personal Data for a Business Purpos</span></b><b><span lang=EN-US
+style='font-size:16.0pt;font-family:"等线 Light";mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'>e</span></b><b><span lang=EN-US
+style='font-size:16.0pt;font-family:"ç­‰çº¿Light",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We disclose your Personal Data to service
+providers and other parties as explained in the chart above for the following
+business purposes:</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Auditing related to a current interaction
+and concurrent transactions, including, but not limited to, counting ad
+impressions to unique visitors, verifying positioning and quality of ad
+impressions, and auditing compliance with this specification and other
+standards.</span><span lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Detecting security incidents, protecting
+against malicious, deceptive, fraudulent, or illegal activity, and prosecuting
+those responsible for that activity.</span><span lang=EN-US style='font-size:
+13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Debugging to identify and repair errors
+that impair existing intended functionality.</span><span lang=EN-US
+style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:宋体;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Short-term, transient use of Personal Data
+that is not used by another party to build a consumer profile or otherwise
+alter your consumer experience outside the current interaction.</span><span
+lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Performing services on our behalf,
+including maintaining or servicing accounts, providing customer service,
+processing or fulfilling orders and transactions, verifying customer
+information, processing payments, providing financing, providing advertising or
+marketing services, providing analytic services, or providing similar services
+on behalf of the business or service provider.</span><span lang=EN-US
+style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:宋体;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Undertaking internal research for
+technological development and demonstration.</span><span lang=EN-US
+style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:宋体;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:13.0pt;margin-right:0cm;margin-bottom:
+13.0pt;margin-left:0cm;line-height:27.7pt;mso-pagination:widow-orphan;
+mso-outline-level:2'><b><span lang=EN-US style='font-size:14.0pt;font-family:
+"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>Data
+Security and Retention</span></b><b><span lang=EN-US style='font-size:16.0pt;
+font-family:"ç­‰çº¿Light",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We seek to protect your Personal Data from
+unauthorized access, use and disclosure using appropriate physical, technical,
+organizational and administrative security measures based on the type of
+Personal Data and how we are processing that data. For example, the Services
+use industry standard Secure Sockets Layer (SSL) technology to allow for the
+encryption of Personal Data you provide to us. You should also help protect
+your data by appropriately selecting and protecting your password and/or other
+sign-on mechanism; limiting access to your computer or device and browser; and
+signing off after you have finished accessing your account.</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We retain Personal Data about you for as
+long as you have an open account with us or as otherwise necessary to provide
+you with our Services. In some&nbsp;<span class=GramE>cases</span>&nbsp;we
+retain Personal Data for longer, if doing so is necessary to comply with our
+legal obligations, resolve disputes or collect fees owed, or is otherwise
+permitted or required by applicable law, rule or regulation. We may further
+retain information in an anonymous or aggregated form where that information
+would not identify you personally.</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:13.0pt;margin-right:0cm;margin-bottom:
+13.0pt;margin-left:0cm;line-height:27.7pt;mso-pagination:widow-orphan;
+mso-outline-level:2'><b><span lang=EN-US style='font-size:16.0pt;font-family:
+"等线 Light";mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>I</span></b><b><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>ndividual Rights</span></b><b><span
+lang=EN-US style='font-size:16.0pt;font-family:"ç­‰çº¿Light",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:14.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We provide you with the rights described
+below when you use our Services. Please contact us&nbsp;<span class=GramE>at&nbsp;&nbsp;jullyk2293@gmail.com</span>&nbsp;if
+you would like to exercise your rights under applicable law. When we receive an
+individual rights request from you, please make sure you are ready to verify
+your identity. Please be advised that there are limitations to your individual
+rights. We may limit your individual rights in the following ways:</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Where denial of access is required or
+authorized by law;</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>When granting access would have a negative
+impact on other's privacy;</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>To protect our rights and properties; and</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Where the request is frivolous or
+burdensome.</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:
+"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;
+mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>The right to delete data.</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>You have the right to delete your data at
+any time. Please contact us at jullyk2293@gmail.com and express your request,
+we will immediately cooperate with your request.</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'>&nbsp;</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:
+"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;
+mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:13.0pt;margin-right:0cm;margin-bottom:
+13.0pt;margin-left:0cm;line-height:27.7pt;mso-pagination:widow-orphan;
+mso-outline-level:2'><b><span lang=EN-US style='font-size:14.0pt;font-family:
+"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>Changes
+to this Privacy Policy</span></b><b><span lang=EN-US style='font-size:16.0pt;
+font-family:"ç­‰çº¿Light",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>We</span><span class=GramE><span
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>’</span></span><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>re constantly trying to improve our
+Services, so we may need to change this Privacy Policy from time to time as
+well, but we will alert you to changes by placing a notice within the games
+(apps) by sending you a notification, and/or by some other means. Please note
+that if you</span><span class=GramE><span style='font-size:14.0pt;font-family:
+"微软雅黑",sans-serif;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>’</span></span><span
+class=SpellE><span lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>ve</span></span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;opted not to receive legal notice
+from us , those legal notices will still govern your use of the Services, and
+you are still responsible for reading and understanding them. If you use the
+Services after any changes to the Privacy Policy have been posted, that means
+you agree to all of the changes. Use of information we collect is subject to
+the Privacy Policy in effect at the time such information is collected.</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>&nbsp;</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-pagination:widow-orphan'><span lang=EN-US
+style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>Contact Information:</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:"ç­‰çº¿",serif;
+mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:18.0pt;mso-pagination:widow-orphan'><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>If you have any questions or comments
+about this Privacy Policy, the ways in which we collect and use your Personal
+Data, your choices and rights regarding such use, please do not hesitate to
+contact us at:</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:"ç­‰çº¿",serif;mso-hansi-font-family:宋体;mso-bidi-font-family:宋体;
+color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>+8617601010367</span><span lang=EN-US
+style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:宋体;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:18.0pt;text-align:left;text-indent:-18.0pt;mso-pagination:
+widow-orphan'><span style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;
+mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>•</span><span
+lang=EN-US style='font-size:7.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:å®‹ä½“;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+lang=EN-US style='font-size:14.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:
+宋体;color:black;mso-font-kerning:0pt'>jullyk2293@gmail.com</span><span
+lang=EN-US style='font-size:13.5pt;font-family:"å®‹ä½“",serif;mso-hansi-font-family:
+宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
